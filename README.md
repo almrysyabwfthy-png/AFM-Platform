@@ -11,4 +11,3 @@ An advanced smart Android platform designed to provide diverse technological, ed
 ## Developed By
 * **Name:** Abu-Fathy Al-Muraisy
 * **Role:** Android Developer & Educator
-￼Enter
